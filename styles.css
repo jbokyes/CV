@@ -1,0 +1,31 @@
+body {
+  background-color: #FFC4C4;
+}
+
+hr {
+
+border-style: dotted none none;
+height: 2px;
+width: 12%;
+border-color: #A10035;
+border-width: 6px;
+}
+
+* {
+text-align: justify;
+letter-spacing: 2px;
+font-family: Arial;
+}
+table {
+border-collapse: separate;
+border-spacing: 4px 9px;
+}
+h1{
+  color:#F94C66;
+}
+h3{
+  color:#F94C66;
+}
+h2{
+  color:#F94C66;
+}
